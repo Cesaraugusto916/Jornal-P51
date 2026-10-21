@@ -6,6 +6,9 @@
   <video src="./assets/demo.mp4" width="100%" controls autoplay muted loop></video>
 </div>
 
+
+https://github.com/user-attachments/assets/1abdccf9-0710-44a2-b11b-2d2f97484f15
+
 ---
 
 ## 📌 Resumo Executivo
